@@ -23,7 +23,7 @@ def create_html(valutes):
         text += '</tr>'
 
     text += '</table>'
-    text += '</body><html>'
+    text += '</body></html>'
     return text
 
 
